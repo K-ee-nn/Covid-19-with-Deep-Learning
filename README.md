@@ -1,11 +1,14 @@
-Notebook information 
--
+# Chest X-rays for Covid-19 predictions
+![](images/image2.png)
+
 
 (Either open and upload on kaggle or local machine)
 
+![](images/image3.png)
+
 
 Dataset corresponds to these three categories
-
+-
        -> Healthy
 
        -> Bacterial-pneumonia
